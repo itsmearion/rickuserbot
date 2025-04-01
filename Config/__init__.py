@@ -5,7 +5,7 @@ BOT_TOKEN= '8058258424:AAEOKeNY8tmbftekBSf901FkypkTBD3iho4'              #-|
 OWNER= 1355077923                                                        #-|
 OWNER_USERNAME='@coolrickz'                                  #-|
 #--------------------------------------------------------------------------| Robot Variebels
-Banners_Channel='superrickg'
+Banners_Channel='@superrickg'
 #-----------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------
 AndroidPhone = ['Samsung Galaxy A20s', 'Samsung Galaxy A70', 'Samsung Galaxy A01', 'Samsung Galaxy A20','Samsung Galaxy A30s', 'Samsung Galaxy A51', 'Samsung Galaxy A21s', 'Samsung Galaxy A32','Samsung Galaxy A12', 'Xiaomi Poco X3 Pro ', 'Xiaomi Redmi Note 8 pro', 'Xiaomi Poco X3 Pro ','Xiaomi Redmi Note 8', 'Xiaomi Redmi Note 9 Pro', 'Xiaomi Redmi Note 9', 'Xiaomi Poco F3','Huawei Y7 Prime 2019', 'Huawei Y9 Prime 2019', 'Huawei Y6 Prime 2019 ', 'Huawei Honor 10','Asus ROG Phone 5s', 'Asus Zenfone 3 Deluxe']
@@ -24,7 +24,7 @@ BOT_USERNAME='http://t.me/rickuserrbabibot'
 Photos_Path=r'/root/Advertiser/Data/Fake_Details/Photos'
 Fake_Details_Path=r'/root/Advertiser/Data/Fake_Details'
 Sessions=r'/root/Advertiser/Sessions'
-Dark_Channel='all my risk'
+Dark_Channel='vpixen'
 Natural_Channels=[ '@itsmerickkkk'] #,'@itsmeerickkkkkk' , '@itsmeerickkkkkk' , '@itsmeerickkkkkk'] you can add any channels
 #--------------------------------------------------------------------------| Prices
 Adding_Account=-30
