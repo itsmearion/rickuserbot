@@ -1,11 +1,11 @@
 ﻿#--------------------------------------------------------------------------|Variebels For Api
-API_ID =5015063                                                          #-|
-API_HASH = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'                           #-|
-BOT_TOKEN= '1234567899:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'              #-| 
-OWNER= 2133923261                                                        #-|
-OWNER_USERNAME='YOUR_TELEGRAM_USERNAME'                                  #-|
+API_ID =22231144                                                          #-|
+API_HASH = 'b49baaae83b06b714576cd3'                           #-|
+BOT_TOKEN= '8058258424:AAEOKeNY8tmbftekBSf901FkypkTBD3iho4'              #-| 
+OWNER= 1355077923                                                        #-|
+OWNER_USERNAME='@coolrickz'                                  #-|
 #--------------------------------------------------------------------------| Robot Variebels
-Banners_Channel='@CHANNEL WICH YOUR BANNERS SENDED'
+Banners_Channel='superrickg'
 #-----------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------
 AndroidPhone = ['Samsung Galaxy A20s', 'Samsung Galaxy A70', 'Samsung Galaxy A01', 'Samsung Galaxy A20','Samsung Galaxy A30s', 'Samsung Galaxy A51', 'Samsung Galaxy A21s', 'Samsung Galaxy A32','Samsung Galaxy A12', 'Xiaomi Poco X3 Pro ', 'Xiaomi Redmi Note 8 pro', 'Xiaomi Poco X3 Pro ','Xiaomi Redmi Note 8', 'Xiaomi Redmi Note 9 Pro', 'Xiaomi Redmi Note 9', 'Xiaomi Poco F3','Huawei Y7 Prime 2019', 'Huawei Y9 Prime 2019', 'Huawei Y6 Prime 2019 ', 'Huawei Honor 10','Asus ROG Phone 5s', 'Asus Zenfone 3 Deluxe']
@@ -19,13 +19,13 @@ PcVersion = ['Windows 7', 'Windows 8', 'Windows 8.1', 'Windows 8.2', 'Windows 10
 
 #-----------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------
-API=[['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',1111111111],['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',11111111111],['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',1111111111]]
-BOT_USERNAME='YOUR BOT USERNAME'
+API=[['b49baaae83b06b714576cd3',1111111111],['b49baaae83b06b714576cd3',11111111111],['b49baaae83b06b714576cd3',1111111111]]
+BOT_USERNAME='http://t.me/rickuserrbabibot'
 Photos_Path=r'/root/Advertiser/Data/Fake_Details/Photos'
 Fake_Details_Path=r'/root/Advertiser/Data/Fake_Details'
 Sessions=r'/root/Advertiser/Sessions'
-Dark_Channel='DarkBotsChannel'
-Natural_Channels=[ '@Amiralirj_Official'] #,'@DarkBotsChannel' , '@gizmiztel' , '@ahangrj'] you can add any channels
+Dark_Channel='all my risk'
+Natural_Channels=[ '@itsmerickkkk'] #,'@itsmeerickkkkkk' , '@itsmeerickkkkkk' , '@itsmeerickkkkkk'] you can add any channels
 #--------------------------------------------------------------------------| Prices
 Adding_Account=-30
 Delete_Account=-4
